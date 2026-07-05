@@ -1,0 +1,10 @@
+{
+  "name": "pinecrest-academy",
+  "version": "1.0.0",
+  "description": "Pinecrest Academy - Modern Excellence in Education website repository.",
+  "scripts": {
+    "build": "echo 'Building static website assets...'"
+  },
+  "author": "Stuti Jain",
+  "license": "MIT"
+}

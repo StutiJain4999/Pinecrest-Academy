@@ -1,0 +1,22 @@
+# Dependency directories
+node_modules/
+
+# Vercel output
+.vercel/
+.vercel_build_output/
+out/
+
+# IDE/Editor config
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
