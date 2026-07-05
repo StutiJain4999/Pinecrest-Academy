@@ -6,7 +6,7 @@ Pinecrest Academy is a premium, fully responsive single-page landing website des
 
 ## Live Project Links
 - **GitHub Repository**: [https://github.com/StutiJain4999/Pinecrest-Academy](https://github.com/StutiJain4999/Pinecrest-Academy)
-- **Live Deployed Website**: [https://chatbot-zeta-orpin.vercel.app](https://chatbot-zeta-orpin.vercel.app)
+- **Live Deployed Website**: [https://pinecrest-academy.vercel.app](https://pinecrest-academy.vercel.app)
 
 ---
 
